@@ -1,7 +1,6 @@
-Citation
-
+## Citation
 If you use this code for your research, please cite these papers.
-
+```
 @article{Kim_2020,
    title={Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering},
    volume={29},
@@ -46,3 +45,4 @@ If you use this code for your research, please cite these papers.
   booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
   year={2019}
   }
+```
